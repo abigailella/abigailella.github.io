@@ -15,5 +15,5 @@ Because the thought of leaving the academic life makes me incredibly antsy, I ha
 
 Anyways, first posts are hard, and I have a thesis to finish. I’ll wrap it up here. Cheers! 
 
-  <sup>*</sup>Long live #librariesofthenortheast
+  <sup><sup>*</sup>Long live #librariesofthenortheast</sup>
 
