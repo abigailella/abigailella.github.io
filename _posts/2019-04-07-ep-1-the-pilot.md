@@ -1,6 +1,3 @@
-
-<p><img class=header src="https://abigailella.github.io/AEJ.png" width="520" height="200" /></p>
-
 ---
 layout: post
 title: "Ep 1: Pilot."
