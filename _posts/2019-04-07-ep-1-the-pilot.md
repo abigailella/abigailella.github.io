@@ -4,7 +4,7 @@ title: "Ep 1: Pilot."
 date: 2019-04-07
 ---
 
-As I approach the end of my undergraduate career, I face not only the great expanse of the “real world”, but also the soon-to-be vacant part of my life that is normally spent writing pages and pages of essays on arcane topics that are of little to no interest to the general public. The real world part is okay, as I’m used to living in it at least most of the time. The stepping-out-of academia bit, though, not so much... 
+As I approach the end of my undergraduate career, I face not only the great expanse of the “real world,” but also the soon-to-be vacant part of my life that is normally spent writing pages and pages of essays on arcane topics that are of little to no interest to the general public. The real world part is okay, as I’m used to living in it at least most of the time. The stepping-out-of academia bit, though, not so much... 
 
 Because the thought of leaving the academic life makes me incredibly antsy, I have decided to fill that soon-to-be vacuum with self-imposed essays. I’ll be using this platform to document the following topics:
 
