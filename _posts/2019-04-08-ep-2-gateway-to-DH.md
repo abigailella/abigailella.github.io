@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Ep 1: Pilot."
-date: 2019-04-07
+title: "Ep 2: Lexos is to weed as NLTK is to speed."
+date: 2019-04-08
 ---
 <h1><br />Ep 2: Lexos is to Weed as NLTK is to Speed</h1>
 <p>Hello, world! In my experience, some resources for computational research in the humanities are a bit like gateway drugs: once you get a taste, you keep coming back.* Once you get acclimated, you quickly become inclined to take it up a notch. And then, the next thing you know, it&rsquo;s 3am and you&rsquo;ve got fifty stack exchange tabs open...so it goes.</p>
