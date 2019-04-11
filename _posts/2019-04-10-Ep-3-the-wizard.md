@@ -3,8 +3,6 @@ layout: post
 title: "Ep 3: Pay some attention to the man behind the curtain!"
 date: 2019-04-10
 ---
-
-<p><strong>Ep 3: Pay no attention to the man behind the curtain! </strong></p>
 <p>&nbsp;</p>
 <blockquote>
 <p><em>"I thought Oz was a great Head," said Dorothy.</em></p>
