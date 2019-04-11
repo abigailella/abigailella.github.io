@@ -17,6 +17,6 @@ date: 2019-04-08
 <p>Until next time!</p>
 <p><br />*I assume this is how gateway drugs work. I don&rsquo;t do drugs. Drugs are bad. </p>
 
-<iframe src="https://public.tableau.com/views/20TopicsStemmedCorpus/Sheet2?:embed=y&:display_count=yes&publish=yes"
+<iframe src="https://public.tableau.com/views/20TopicsStemmedCorpus/Sheet2?:embed=y&:display_count=yes&publish=yes:showVizHome=no:embed=true "
  width="645" height="955"></iframe>
 
