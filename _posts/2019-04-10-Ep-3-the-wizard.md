@@ -4,16 +4,16 @@ title: "Ep 3: Pay some attention to the man behind the curtain!"
 date: 2019-04-10
 ---
 <p>&nbsp;</p>
-<ol>
-<li><em>"I thought Oz was a great Head," said Dorothy.</em></li>
-<li><em>"And I thought Oz was a lovely Lady," said the Scarecrow.</em></li>
-<li><em>"And I thought Oz was a terrible Beast," said the Tin Woodman.</em></li>
-<li><em>"And I thought Oz was a Ball of Fire," exclaimed the Lion.</em></li>
-<li><em>"No, you are all wrong," said the little man meekly. "I have been making believe."</em></li>
-<li><em>"Making believe!" cried Dorothy. "Are you not a Great Wizard?"</em></li>
-<li><em>"Hush, my dear," he said. "Don't speak so loud, or you will be overheard--and I should be ruined. I'm supposed to be a Great Wizard."</em></li>
+<blockquote>
+<p><em>"I thought Oz was a great Head," said Dorothy.</em></p>
+<p><em>"And I thought Oz was a lovely Lady," said the Scarecrow.</em></p>
+<p><em>"And I thought Oz was a terrible Beast," said the Tin Woodman.</em></p>
+<p><em>"And I thought Oz was a Ball of Fire," exclaimed the Lion.</em></p>
+<p><em>"No, you are all wrong," said the little man meekly. "I have been making believe."</em></p>
+<p><em>"Making believe!" cried Dorothy. "Are you not a Great Wizard?"</em></p>
+<p><em>"Hush, my dear," he said. "Don't speak so loud, or you will be overheard--and I should be ruined. I'm supposed to be a Great Wizard."</em></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Frank Baum, The Wonderful Wizard of Oz, 1900</p>
-</ol>
+</blockquote>
 <p>&nbsp;</p>
 <p>Tools for text analysis can feel a bit like magic. Upload Shakespeare&rsquo;s corpora and press a few buttons, and you&rsquo;re well on your way to a seemingly limitless array of fancy graphs, statistics, and interactive visualizations. While these tools are useful, and I am not advocating that interested students shy away from them, I would like to make the case that using these tools without understanding the underlying processes by which they work is a bit like trusting a great and powerful wizard whose true form you may or may not have actually seen.</p>
 <p>&nbsp;In the software world, the Wizard of Oz (and many DH applications!) would be referred to as a &ldquo;black box.&rdquo; According to <a href="https://en.wikipedia.org/wiki/Black_box">Wikipedia</a>, &ldquo;a <strong>black box</strong> is a device, system or object which can be viewed in terms of its inputs and outputs...without any knowledge of its internal workings.&rdquo; Black box software is everywhere, and it&rsquo;s a good thing, too&mdash;life would be a lot more challenging if sending an email required us to understand everything that was going on behind the scenes.</p>
