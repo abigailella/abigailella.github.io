@@ -23,7 +23,7 @@ date: 2019-04-10
 <p>You see, behind the pretty interface, there is a lot going on. And although it can be nice to not have to think about all that, it&rsquo;s important to recognize that &ldquo;all that&rdquo; can actually have a pretty large impact on the results of any given analysis. As it happens, most analyses have several parameters that can be changed/adjusted, and these changes can have a pretty drastic effect on the output. Furthermore, the steps that you take in cleaning and processing your text can have <em>even more</em> drastic impacts on the results.</p>
 <p>&nbsp;</p>
 <p>Let&rsquo;s explore. We&rsquo;ll use a simple Cluster Analysis as an example. For those of you who are unfamiliar with this type of analysis, check out <a href="https://ncss-wpengine.netdna-ssl.com/wp-content/themes/ncss/pdf/Procedures/NCSS/Hierarchical_Clustering-Dendrograms.pdf">this resource</a>&nbsp; or, for a more simple take, <a href="https://wheatoncollege.edu/wp-content/uploads/2012/08/How-to-Read-a-Dendrogram-Web-Ready.pdf">this one</a>.</p>
-<p>&nbsp;</p>
+
 <p>&nbsp;In keeping with the Baum-ian theme of this post, I&rsquo;ve created a corpus that contains the first ten Oz books:</p>
 <p>&nbsp;</p>
 <ol>
@@ -45,7 +45,7 @@ date: 2019-04-10
 <p>If these definitions aren&rsquo;t clear (or you just want to read more) check out <a href="https://www.datacamp.com/community/tutorials/stemming-lemmatization-python">this resource.</a> &nbsp;</p>
 <p>&nbsp;Anyways, moving on. After accessing all ten text files through the Gutenberg library, I removed stop words, using <a href="https://gist.github.com/sebleier/554280">NLTK&rsquo;s list of English stop words</a>. I then made three different versions of the corpus. The first version was left as is&mdash;stop-worded, but not stemmed or lemmatized. The second version was lemmatized using the NLTK&rsquo;s WordNet Lemmatizer. The third version was stemmed using the SnowBall stemmer.</p>
 <p>&nbsp;After that, I ran a Cluster analysis of each of the three versions in Stylo. Below, you&rsquo;ll find the results.</p>
-<p>&nbsp;</p>
+
 
 <p>&nbsp;</p>
 <p>&nbsp;<img src="https://github.com/abigailella/abigailella.github.io/blob/master/Unstemmed.png?raw=true" alt="" width="543" height="415" /></p>
@@ -64,5 +64,4 @@ date: 2019-04-10
 <p>Anyways, read up, and get ready to dive back into the lemmatization vs. stemming debate in Episode 4, forthcoming once I catch up on all the laundry I need to do.</p>
 <p>&nbsp;</p>
 <p>Adieu!&nbsp; &nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
