@@ -22,7 +22,7 @@ date: 2019-04-10
 
 <p>You see, behind the pretty interface, there is a lot going on. And although it can be nice to not have to think about all that, it&rsquo;s important to recognize that &ldquo;all that&rdquo; can actually have a pretty large impact on the results of any given analysis. As it happens, most analyses have several parameters that can be changed/adjusted, and these changes can have a pretty drastic effect on the output. Furthermore, the steps that you take in cleaning and processing your text can have <em>even more</em> drastic impacts on the results.</p>
 
-<p>Let&rsquo;s explore. We&rsquo;ll use a simple Cluster Analysis as an example. For those of you who are unfamiliar with this type of analysis, check out <a href="https://ncss-wpengine.netdna-ssl.com/wp-content/themes/ncss/pdf/Procedures/NCSS/Hierarchical_Clustering-Dendrograms.pdf">this resource</a>&nbsp; or, for a more simple take, <a href="https://wheatoncollege.edu/wp-content/uploads/2012/08/How-to-Read-a-Dendrogram-Web-Ready.pdf">this one</a>.</p>
+<p>Let&rsquo;s explore. We&rsquo;ll use a simple Cluster Analysis as an example. For those of you who are unfamiliar with this type of analysis, check out <a href="https://ncss-wpengine.netdna-ssl.com/wp-content/themes/ncss/pdf/Procedures/NCSS/Hierarchical_Clustering-Dendrograms.pdf">this resource</a>&nbsp;, or for a more simple take, <a href="https://wheatoncollege.edu/wp-content/uploads/2012/08/How-to-Read-a-Dendrogram-Web-Ready.pdf">this one</a>.</p>
 
 <p>&nbsp;In keeping with the Baum-ian theme of this post, I&rsquo;ve created a corpus that contains the first ten Oz books:</p>
 <p>&nbsp;</p>
