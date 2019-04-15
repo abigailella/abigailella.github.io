@@ -1,6 +1,8 @@
+---
 layout: post
 title: "Ep 4: An explanation of the Porter Stemmer algorithm in plain English"
 date: 2019-04-15
+---
 
 <p>In the last post, I explored the effect that stemming vs lemmatizing vs. not dong either of those things had on the output of a Cluster Analysis on the first ten Oz books. &nbsp;Here, I&rsquo;ll go a bit deeper in exploring how stemming algorithms work. Well... how <em>one particular </em>stemming algorithm works: the porter stemmer.</p>
 <p>&nbsp;</p>
