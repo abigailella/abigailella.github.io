@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ep 2: Lexos is to weed as NLTK is to speed."
+title: "Ep 2: Gateways to DH."
 date: 2019-04-08
 ---
 
